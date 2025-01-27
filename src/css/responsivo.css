@@ -5,7 +5,7 @@
     }
 
     .slider{
-        gap: 10px;
+        gap: 100px;
     }
 }
 
@@ -24,11 +24,11 @@
 
     .btn-seta{
         position: absolute;
-        bottom: -20%;
+        bottom: -10%;
     }
 
     #btn-avancar{
-        right: 20%;
+        right: 15%;
     }
 
     #btn-voltar{
@@ -47,4 +47,5 @@
         font-size: 12px;
     }
 }
+
 
